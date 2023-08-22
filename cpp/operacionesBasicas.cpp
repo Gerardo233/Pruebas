@@ -11,3 +11,8 @@ int main()
 {
     return 0;
 }
+
+int Addition(int a, int b)
+{
+    return a + b;
+}
